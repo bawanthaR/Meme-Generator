@@ -1,3 +1,3 @@
 # Meme-Generator
 
-Online meme generator made with Vanilla JavaScript 😁
+online meme generator made with Vanilla JavaScript 😁
